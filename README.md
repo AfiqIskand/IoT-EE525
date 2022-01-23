@@ -1,7 +1,10 @@
 # IoT-EE525 # Some information I remove it as it my private data
 Here is an Arduino nano/uno code for IoT application using ESP8266 and nRF24L01
-Just a simple code
+Just a simple code for mini project
+
 Thigspeak Project URL: https://thingspeak.com/channels/1633883
+Device 1 -> Receiver ESP8266 + nRF24L01
+Device 2 -> Transmitter nRF24L01 + Water Sensor
 
 Reference:
 https://create.arduino.cc/projecthub/neverofftheinternet/esp8266-setup-and-first-wifi-connection-76fc3c
